@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Chroma & Local DBs
+*.db
+*.sqlite
+chroma_db/
+data/processed/
+data/raw/
+data/feedback/
+data/chroma_db/
+data/opinions.db
+
+# Environment Variables
+.env
+.env.local
+
+# IDE / OS / Agent Configs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.agents/
+.claude/

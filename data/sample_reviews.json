@@ -1,0 +1,86 @@
+[
+  {
+    "review_id": "R101",
+    "entity_id": "grand_hotel",
+    "text": "The cleanliness of the rooms was truly spotless. The bedsheets were pristine and the bathroom was thoroughly cleaned every single morning.",
+    "rating": 5.0,
+    "date": "2026-03-01"
+  },
+  {
+    "review_id": "R102",
+    "entity_id": "grand_hotel",
+    "text": "The cleanliness was truly spotless and spotless hygiene throughout. The sheets were pristine and bathroom thoroughly cleaned.",
+    "rating": 5.0,
+    "date": "2026-03-02"
+  },
+  {
+    "review_id": "R103",
+    "entity_id": "grand_hotel",
+    "text": "The front desk staff welcomed us warmly and check-in was finished in under two minutes. Fantastic service at the reception!",
+    "rating": 5.0,
+    "date": "2026-03-05"
+  },
+  {
+    "review_id": "R104",
+    "entity_id": "grand_hotel",
+    "text": "Reception staff was extremely helpful and courteous when answering our questions about the neighborhood.",
+    "rating": 4.0,
+    "date": "2026-03-06"
+  },
+  {
+    "review_id": "R105",
+    "entity_id": "grand_hotel",
+    "text": "Terrible room service experience. We ordered dinner at 8 PM and it arrived cold two hours later. The attendant was very rude on the phone.",
+    "rating": 1.0,
+    "date": "2026-03-08"
+  },
+  {
+    "review_id": "R106",
+    "entity_id": "grand_hotel",
+    "text": "Room service was awfully slow and unhelpful. When we asked for extra towels, nobody responded for five hours.",
+    "rating": 2.0,
+    "date": "2026-03-10"
+  },
+  {
+    "review_id": "R107",
+    "entity_id": "grand_hotel",
+    "text": "The location is unbeatable! Just a two minute walk to the subway station and surrounded by excellent restaurants.",
+    "rating": 5.0,
+    "date": "2026-03-12"
+  },
+  {
+    "review_id": "R108",
+    "entity_id": "grand_hotel",
+    "text": "Great central location downtown, easy access to all tourist spots and metro lines.",
+    "rating": 5.0,
+    "date": "2026-03-14"
+  },
+  {
+    "review_id": "R109",
+    "entity_id": "grand_hotel",
+    "text": "The room was quite cramped and the air condition was noisy throughout the night, making it difficult to sleep.",
+    "rating": 2.0,
+    "date": "2026-03-15"
+  },
+  {
+    "review_id": "R110",
+    "entity_id": "grand_hotel",
+    "text": "Wonderful swimming pool and modern gym on the rooftop. High speed wifi worked flawlessly for remote work.",
+    "rating": 5.0,
+    "date": "2026-03-16"
+  },
+  {
+    "review_id": "R111",
+    "entity_id": "grand_hotel",
+    "text": "Very clean rooms, tidy housekeeping, and pleasant scent in the lobby.",
+    "rating": 5.0,
+    "date": "2026-03-18"
+  },
+  {
+    "review_id": "R112",
+    "entity_id": "grand_hotel",
+    "text": "The price is a bit expensive for what you get, but the cleanliness makes it worth it.",
+    "rating": 3.0,
+    "date": "2026-03-20"
+  }
+]

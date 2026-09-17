@@ -1,0 +1,22 @@
+# Core Data & Web
+fastapi>=0.110.0
+uvicorn>=0.28.0
+streamlit>=1.35.0
+pydantic>=2.7.0
+pandas>=2.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+
+# NLP, Retrieval & Deduplication
+rank-bm25>=0.2.2
+datasketch>=1.6.4
+sentence-transformers>=2.7.0
+chromadb>=0.5.0
+
+# LLM Providers
+google-genai>=0.1.1
+
+# Testing & Quality
+pytest>=8.0.0
